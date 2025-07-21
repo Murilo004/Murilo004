@@ -23,7 +23,7 @@ Tendo como foco em programação back-end e desenvolvimento de software.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo004&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo004&layout=compact&theme=tokyonight&cache_seconds=30" 
   />
 
 </p>
