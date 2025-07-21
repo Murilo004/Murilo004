@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Murilo Sonsin Rálio, de São José do Rio Preto - SP.<br/>
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia (Fatec), com foco para Back-End!
+Curso Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia (Fatec) - São José do Rio Preto, SP.<br/>
+Tendo como foco em programação back-end e desenvolvimento de software.
 
 ---
 
