@@ -4,7 +4,7 @@
 
 Curso Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia (Fatec) - São José do Rio Preto, SP.<br/>
 Tendo como foco em programação back-end e desenvolvimento de software.<br/><br/>
-Não se esqueça de olhar meu perfil no Linkedln:<br/><br/><br/>
+Não se esqueça de olhar meu perfil no Linkedln:<br/><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilosonsinrálio/)
 
 ---
