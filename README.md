@@ -1,6 +1,6 @@
 # Murilo Sonsin Rálio
 
-### **`Back-End developer`**
+### **`Desenvolvedor Back-End`**
 
 Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia (Fatec) – São José do Rio Preto, São Paulo, Brasil.<br/>
 Focado em programação back-end e desenvolvimento de software.<br/><br/>
@@ -10,7 +10,7 @@ Não se esqueça de verificar meu perfil no Linkedln:<br/><br/>
 
 ---
 
-### My skills
+### Minhas habilidades
 
 <div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -21,7 +21,7 @@ Não se esqueça de verificar meu perfil no Linkedln:<br/><br/>
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
 
-### Profile's status
+### Status do perfil
 
 <p>
 
