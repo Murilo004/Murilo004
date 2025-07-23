@@ -2,9 +2,10 @@
 
 ### **`Desenvolvedor Back-End`**
 
-Curso Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia (Fatec) - São José do Rio Preto, SP.<br/>
-Tendo como foco em programação back-end e desenvolvimento de software.<br/><br/>
-Não se esqueça de olhar meu perfil no Linkedln:<br/><br/>
+Systems Analysis and Development student at the Faculty of Technology (Fatec) – São José do Rio Preto, São Paulo, Brazil.<br/>
+Focused on back-end programming and software development.<br/><br/>
+
+Don’t forget to check out my LinkedIn profile!<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilosonsinrálio/)
 
 ---
