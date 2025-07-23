@@ -37,7 +37,7 @@ Não se esqueça de verificar meu perfil no Linkedln:<br/><br/>
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo004&layout=compact&theme=tokyonight&cache_seconds=30"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo004&layout=compact&theme=tokyonight&cache_seconds=10"
   />
 
 </p>
