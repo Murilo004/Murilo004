@@ -9,7 +9,7 @@ Não se esqueça de olhar meu perfil no Linkedln:<br/><br/>
 
 ---
 
-### Minhas habilidades 
+### My skills
 
 <div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -20,7 +20,7 @@ Não se esqueça de olhar meu perfil no Linkedln:<br/><br/>
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
 
-### Estatísticas do perfil
+### Profile's status
 
 <p>
 
