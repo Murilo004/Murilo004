@@ -1,6 +1,6 @@
 # Murilo Sonsin Rálio
 
-### **`Desenvolvedor Back-End`**
+### **`Back-End developer`**
 
 Systems Analysis and Development student at the Faculty of Technology (Fatec) – São José do Rio Preto, São Paulo, Brazil.<br/>
 Focused on back-end programming and software development.<br/><br/>
