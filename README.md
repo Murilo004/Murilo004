@@ -30,14 +30,14 @@ Não se esqueça de verificar meu perfil no Linkedln:<br/><br/>
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Murilo004&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=10" 
+    src="https://github-readme-stats.vercel.app/api?username=Murilo004&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo004&layout=compact&theme=tokyonight&cache_seconds=10"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo004&layout=compact&theme=tokyonight&cache_seconds=1"
   />
 
 </p>
