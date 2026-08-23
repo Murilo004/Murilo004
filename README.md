@@ -17,3 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a> 
 </p>
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Murilo004&layout=compact&theme=tokyonight" />
+</p>
