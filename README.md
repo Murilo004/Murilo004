@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Back-End</h3> 
 <p align="center"> Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia (Fatec) – São José do Rio Preto, São Paulo, Brasil.
   <br> 
-  Focado em programação back-end e desenvolvimento de software.<br> Buscando oportunidade na área de desenvolvimento! 
+  Focado em programação back-end e desenvolvimento de software.
 </p> 
 <p align="center"> 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> 
