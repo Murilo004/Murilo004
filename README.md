@@ -29,5 +29,5 @@
 </p>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Murilo004&layout=compact&theme=tokyonight&exclude_repo=vigilante-app,marcato_redacoes" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Murilo004&layout=compact&theme=tokyonight&exclude_repo=marcato_redacoes" />
 </p>
